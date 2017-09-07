@@ -22,9 +22,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.spacsport.nl/')
+WebUI.navigateToUrl('https://www.vantilburgonline.nl/')
 
-WebUI.click(findTestObject('a_Dames (1)'))
+WebUI.click(findTestObject('a_Dames'))
 
 WebUI.closeBrowser()
 
