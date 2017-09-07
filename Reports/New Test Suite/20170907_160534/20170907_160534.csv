@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite,Firefox 55.0,,2017-09-07 16:05:46,2017-09-07 16:06:05,18.745s,PASSED
+,,,,,,
+Test Cases/Test 2,Firefox 55.0,,2017-09-07 16:05:47,2017-09-07 16:05:56,9.758s,PASSED
+openBrowser,Firefox 55.0,,2017-09-07 16:05:47,2017-09-07 16:05:52,4.807s,PASSED
+navigateToUrl,Firefox 55.0,,2017-09-07 16:05:52,2017-09-07 16:05:55,2.454s,PASSED
+click,Firefox 55.0,,2017-09-07 16:05:55,2017-09-07 16:05:56,1.718s,PASSED
+closeBrowser,Firefox 55.0,,2017-09-07 16:05:56,2017-09-07 16:05:56,0.206s,PASSED
+,,,,,,
+Test Cases/Test 1,Firefox 55.0,,2017-09-07 16:05:57,2017-09-07 16:06:05,8.566s,PASSED
+openBrowser,Firefox 55.0,,2017-09-07 16:05:57,2017-09-07 16:06:00,2.885s,PASSED
+navigateToUrl,Firefox 55.0,,2017-09-07 16:06:00,2017-09-07 16:06:01,1.513s,PASSED
+click,Firefox 55.0,,2017-09-07 16:06:01,2017-09-07 16:06:05,3.723s,PASSED
+closeBrowser,Firefox 55.0,,2017-09-07 16:06:05,2017-09-07 16:06:05,0.190s,PASSED
